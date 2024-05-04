@@ -1,10 +1,10 @@
 # [level 1] 자연수 뒤집어 배열로 만들기 - 12932 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12932?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12932) 
 
 ### 성능 요약
 
-메모리: 33.6 MB, 시간: 4.49 ms
+메모리: 33.5 MB, 시간: 3.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 03일 10:22:34
+2024년 05월 04일 17:23:01
 
 ### 문제 설명
 
